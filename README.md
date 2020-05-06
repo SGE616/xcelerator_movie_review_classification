@@ -1,0 +1,2 @@
+# xcelerator_movie_review_classification
+repository for xcelerator movie review classification project
